@@ -1,6 +1,6 @@
 `[reference]`
 
-# Grounding vs. Product: Why You Are Not Selling Yet
+# Grounding vs. Product
 
 *Author note: This piece captures a working insight from the 2026-05-07 morning reflection on the current layer of Human Automatica.*
 
