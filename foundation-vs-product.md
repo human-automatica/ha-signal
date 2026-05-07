@@ -2,7 +2,7 @@
 
 # Grounding vs. Product
 
-*Author note: This piece captures a working insight from the 2026-05-07 morning reflection on the current layer of Human Automatica.*
+`Author note: This piece captures a working insight from the 2026-05-07 morning reflection on the current layer of Human Automatica.`
 
 ## The Morning Question
 
