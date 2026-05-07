@@ -16,7 +16,7 @@ So the question made sense. Can you sell this?
 
 I sat with it for a minute and realized the question was slightly wrong. Not because selling is bad. Not because monetization is off the table. Not because the work has no value.
 
-Because I had briefly forgotten what phase I was in.
+Because I had briefly forgotten what layer I was in.
 
 > "I'm building the foundation to be able to build a product later. This is just the setup work. I'm not even working on the product yet."
 
@@ -24,22 +24,22 @@ That distinction matters. It changes how the work should be evaluated. It change
 
 The foundation is not the product. It is what makes the product possible.
 
-## Three Different Phases
+## Three Different Layers
 
-There are at least three phases to this type of work:
+There are at least three layers to this type of work:
 
-**Phase One: Infrastructure (The Current Layer)**
+**Layer One: Infrastructure (The Current Layer)**
 The goal here is internal leverage. You are building the tools that will help you build things later. This looks like naming, branding, documentation, repo structure, and basic operating rules. This is setup work. It feels unglamorous because you are building the floor rather than the house.
 
-**Phase Two: The Build**
+**Layer Two: The Build**
 This is where the foundation gets used. You pick a project and you build it using the rules you established. This is the stress test. You see where the foundation holds and where it leaks.
 
-**Phase Three: The Market**
+**Layer Three: The Market**
 This is where the product arrives. You have a thing that is ready to be used by other people. You are no longer building for yourself or for the system. You are building for a user.
 
 ## Why Confusing Them is Dangerous
 
-If you ask a Phase Three question (Can you sell this?) while you are in Phase One, you create a false finish line. You start judging the quality of the foundation by its immediate marketability. 
+If you ask a layer-three question (Can you sell this?) while you are in layer-one, you create a false finish line. You start judging the quality of the foundation by its immediate marketability. 
 
 This leads to two primary risks:
 1. **Pre-mature Optimization**: You start adding features to the foundation because you think they will sell, rather than because the system actually requires them.
@@ -47,7 +47,7 @@ This leads to two primary risks:
 
 ## The Honest Frame
 
-Phasing helps avoid both. It lets you say: this is infrastructure, and that is intentional. It also lets you say: this will not be infrastructure forever.
+Layering helps avoid both. It lets you say: this is infrastructure, and that is intentional. It also lets you say: this will not be infrastructure forever.
 
 That clarity matters for the person doing the work. It also matters for anyone watching from the outside. Family, collaborators, and peers do not need every detail. But they do need to understand the category of work they are looking at.
 
@@ -55,17 +55,15 @@ If they expect a product, foundation work looks incomplete. If they understand i
 
 The work has not changed. The frame has.
 
-## The Work Will Feel Different
+## Recognizing the Transition
 
-The point is not to avoid selling. The point is to stop asking phase-three questions while still doing phase-one work.
+The point is not to avoid selling. The point is to stop asking layer-three questions while still doing layer-one work.
 
-Human Automatica is not selling yet because it is not in the selling phase. It is building the foundation required to make the product phase more coherent when it arrives. 
+Human Automatica is not selling yet because it is not in the selling layer. It is building the foundation required to make the product layer more coherent when it arrives. That is a valid place to be. It is also a temporary place to be.
 
-That is a valid place to be. It is also a temporary place to be.
+The responsibility now is to keep the foundation honest: useful, reusable, understandable, and pointed toward future work. The transition to Layer Two happens when the work starts to feel different. The questions narrow. The user becomes clearer. The output becomes more concrete. 
 
-The responsibility now is to keep the foundation honest: useful, reusable, understandable, and pointed toward future work. You will know when Phase Two starts because the work will feel different. The questions will narrow. The user will become clearer. The output will become more concrete. 
-
-The foundation will stop being the thing under construction and start becoming the thing being used.
+The foundation stops being the thing under construction and starts becoming the thing being used.
 
 ---
 [humanautomatica.com](https://humanautomatica.com)
