@@ -12,7 +12,7 @@ That question is useful. It is also dangerous if it arrives too early.
 
 I was thinking about how much time has gone into the framework, the ecosystem, the structure, the documentation, the operating model, and whatever else this collection of work eventually gets called. Human Automatica has become real enough to require names, rules, repos, documentation, standards, and a visual identity.
 
-So the question made sense. Can you sell this?
+So the question made sense. Can I sell this? Is this worth the time I've invested?
 
 I sat with it for a minute and realized the question was slightly wrong. Not because selling is bad. Not because monetization is off the table. Not because the work has no value.
 
